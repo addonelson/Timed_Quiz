@@ -1,0 +1,64 @@
+body {
+    background-color: #169A9C;
+    text-align: center;
+}
+
+.start p {
+    flex-wrap: sans-serif;
+}
+
+h1,
+h2 {
+    color: #B50312;
+    font-family: sans-serif;
+}
+
+a {
+    color: #B50312;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+a:hover {
+    color: #B50312;
+    font-family:  sans-serif;
+}
+
+.btn:focus,
+.btn:active,
+.btn:visited {
+    outline: none !important;
+    box-shadow: none !important;
+    background-color: #169A9C;
+}
+
+button {
+    background-color: grey;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+
+#finalScore {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+span {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+#questionTitle {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    font-size: 40px;
+    color: #B50312;
+}
